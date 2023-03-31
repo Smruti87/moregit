@@ -2,5 +2,6 @@
 <head></head>
 <body>
 <h1>Welcome to git hub class</h1>
+<p>New line added in the local repository</p>
 </body>
 </html>
